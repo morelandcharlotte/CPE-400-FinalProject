@@ -2,7 +2,7 @@
 
 # Name: Charlotte Moreland
 # Class: CPE 400
-# Assignment: Final Project Script
+# Assignment: Final Project
 # Description:
   This script takes a pcap file as an argument and analyzes it for IP Addresses, DNS Lookups, and packet size. 
   Dictionaries were used for IP Addresses and DNS Queries so that it would be simpler to store and pull out data. Packet sizes

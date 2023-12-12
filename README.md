@@ -3,7 +3,8 @@
 # Name: Charlotte Moreland
 # Class: CPE 400
 # Assignment: Final Project Script
-# Description: This script takes a pcap file as an argument and analyzes it for IP Addresses, DNS Lookups, and packet size. 
+# Description:
+  This script takes a pcap file as an argument and analyzes it for IP Addresses, DNS Lookups, and packet size. 
   Dictionaries were used for IP Addresses and DNS Queries so that it would be simpler to store and pull out data. Packet sizes
   were stored in a list. The analyzeNetworkTraffic funtion reads the pcap file for packets then iterates through them first for
   IP Addresses which are stored in itemCounts and then DNS Queries also stored in itemCounts. Packet sizes are appended in a list
